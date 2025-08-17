@@ -1,0 +1,32 @@
+body{background-image url("https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg");
+    background-cover:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+
+
+
+}
+nav {
+      background-color: grey;
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex; 
+    }
+
+    nav li {
+      margin: 0; 
+    }
+
+    nav a {
+      display: block;            
+      padding: 14px 20px;        
+      text-decoration: none;
+      color: white;
+    }
+
+    nav a:hover {
+      background-color: rgb(51, 30, 30); }
