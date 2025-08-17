@@ -1,10 +1,8 @@
-body{background-image url("https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg");
-    background-cover:cover;
-    background-repeat:no-repeat;
-    background-position:center;
-
-
-
+body {
+    background-image: url("https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 nav {
       background-color: grey;
