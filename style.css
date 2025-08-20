@@ -28,3 +28,43 @@ nav {
 
     nav a:hover {
       background-color: rgb(51, 30, 30); }
+      nav
+      
+footer {
+    background-color: #f8f8f8;
+    padding: 20px 0;
+}
+
+.mycontainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.mycontainer div {
+    padding: 10px;
+}
+
+.mycontainer h2 {
+    margin-bottom: 10px;
+}
+
+.mycontainer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.mycontainer a {
+    text-decoration: none;
+    color: #333;
+}
+
+.mycontainer a:hover {
+    color: #0077cc;
+}
+
+
+
